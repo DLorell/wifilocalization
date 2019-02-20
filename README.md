@@ -43,3 +43,12 @@ and find the intersection of the circles with center at those points and radius 
 RSS-to-distance function.
 
 Unfortunately, we were unable to get the circle intersection code working before the deadline
+
+We justify these predictions by eyeballing our heatmap
+
+Predictions:
+'80:e6:50:1b:a7:80' -> (-168, -253)
+'f8:cf:c5:97:e0:9e' -> (-252, -60)
+'ec:d0:9f:db:e8:1f' -> (-25, -25)
+
+
